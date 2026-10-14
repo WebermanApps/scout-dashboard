@@ -1,0 +1,26 @@
+{
+ "updated": "2026-10-14 14:53 ICT",
+ "routines": [
+  {
+   "name": "Morning Report",
+   "group": "Reports",
+   "schedule_plain": "Daily Before 5:00 AM ICT",
+   "status": "on",
+   "last_run": "Today 4:47 AM"
+  },
+  {
+   "name": "Channel Snapshot (Public Subs And Views)",
+   "group": "Daily",
+   "schedule_plain": "Daily Morning ICT",
+   "status": "on",
+   "last_run": "Oct 14, 9:24 AM"
+  },
+  {
+   "name": "Dashboard Rebuild",
+   "group": "Daily",
+   "schedule_plain": "After Each Snapshot Or Report",
+   "status": "on",
+   "last_run": "Oct 14, 2:53 PM"
+  }
+ ]
+}
