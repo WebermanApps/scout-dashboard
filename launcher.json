@@ -1,0 +1,29 @@
+{
+ "agent": "scout",
+ "categories": [
+  {
+   "id": "thumbnail",
+   "label": "Thumbnail Deck",
+   "blurb": "Shorts thumbnail looks and text"
+  },
+  {
+   "id": "shorts-ideas",
+   "label": "Shorts Ideas Deck",
+   "blurb": "Next Shorts topics and hooks"
+  },
+  {
+   "id": "channel-look",
+   "label": "Channel Look Deck",
+   "blurb": "Banner, icon and channel style"
+  }
+ ],
+ "unfinished": [
+  {
+   "name": "Thumbnail Taste Deck",
+   "url": "https://webermanapps.github.io/tt-ea97fc1f69b7ca04/",
+   "answered": 0,
+   "total": 79
+  }
+ ],
+ "ready": null
+}
